@@ -1,7 +1,8 @@
 import argparse, requests, dotenv, os
 from dotenv import load_dotenv
 
-load_dotenv("C:\\Users\\Jamin\\.vscode\\Projects\\APIs\\porkbun\\.env")
+dotenv_path = os.path.expanduser("~/.porkbun/.env")
+load_dotenv(dotenv_path)
 apiKey = os.getenv("apikey")
 secretKey = os.getenv("secretkey")
 
