@@ -1,6 +1,6 @@
 # Porky-API
 
-This Python script provides a command-line interface (CLI) for interacting with the Porkbun DNS API. It allows you to create, list, and delete DNS records for a specified domain.
+This Python script provides a command-line interface (CLI) for interacting with the [Porkbun](https://www.porkbun.com) DNS [API](https://porkbun.com/api/json/v3/documentation). It allows you to create, list, and delete DNS records for a specified domain.
 
 ### Requirements
 * Python 3.x
@@ -55,12 +55,10 @@ To delete a DNS record, you can add a method in the PorkbunAPIHelper class for h
 
 ### License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/j4m1n-t/Porky-api/blob/main/LICENSE) file for details.
 
 ### Contact
 
 For any questions or issues, please contact Jamin Thompson at j.thompson@j4m1n.me.
 
 ---
-
-Feel free to customize the contact information and repository URL as needed!
