@@ -1,7 +1,7 @@
 import argparse, requests, dotenv, os
 from dotenv import load_dotenv
 
-dotenv_path = os.path.expanduser("~/.porkbun/.env")
+dotenv_path = os.path.expanduser("~/Porky-api/.env")
 load_dotenv(dotenv_path)
 apiKey = os.getenv("apikey")
 secretKey = os.getenv("secretkey")

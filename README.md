@@ -11,7 +11,7 @@ This Python script provides a command-line interface (CLI) for interacting with 
 1. Clone the repository.
         
         git clone https://github.com/j4m1n-t/porky-api.git
-        cd porky-api
+        cd Porky-api
 2. Install the dependencies
    
         pip install -r requirements.txt
@@ -21,7 +21,7 @@ This Python script provides a command-line interface (CLI) for interacting with 
         secretkey = your_secret_key
 4. Update the path to the `.env` file in `porky-api.py` if necessary. By default, it is set to: 
 
-        dotenv_path = os.path.expanduser("~/.porkbun/.env")
+        dotenv_path = os.path.expanduser("~/Porky-api/.env")
 
 ### Usage
 
