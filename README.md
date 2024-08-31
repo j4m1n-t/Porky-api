@@ -8,10 +8,12 @@ This Python script provides a command-line interface (CLI) for interacting with 
 * python-dotenv library
 
 ### Setup
-1. Clone the repository.
+1. Clone the repository to your user directory.
         
+        cd ~
         git clone https://github.com/j4m1n-t/porky-api.git
         cd Porky-api
+
 2. Install the dependencies
    
         pip install -r requirements.txt
